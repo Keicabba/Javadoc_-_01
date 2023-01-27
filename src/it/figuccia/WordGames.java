@@ -2,6 +2,7 @@ package it.figuccia;
 
 /**
  * WordGames class that contains two methods for manipulating words
+ * @author Figuccia
  */
 public class WordGames {
     /**

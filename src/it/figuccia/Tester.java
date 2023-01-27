@@ -2,6 +2,7 @@ package it.figuccia;
 
 /**
  * Tester class that invokes the methods of the WordGames class
+ * @author Figuccia
  */
 public class Tester {
     public static void main(String[] args) {
